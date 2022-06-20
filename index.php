@@ -12,6 +12,5 @@
             <input type="file" name="UrlImage" />
             <button className='bg-green-600 text-white text-sm p-1 rounded-sm' type="submit">Upload file</button>
     </form>
-    
 </body>
 </html>
